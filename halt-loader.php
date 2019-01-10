@@ -3,8 +3,6 @@
 /*
   Plugin Name: Halt Autoloader
   Description: Loader for MU Plugins used in Halt Starter Theme
-  Author: CatchFire Creative
-  Author URI: https://catchfirecreative.com
  */
 
 /**
